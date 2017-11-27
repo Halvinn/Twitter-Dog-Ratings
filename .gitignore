@@ -1,3 +1,17 @@
+
+a.txt
+act_report.docx
+act_report1.pdf
+notebook.tex
+output_59_1.png
+output_60_1.png
+some_func.py
+tweepy_code.txt
+twitter_keys.txt
+wrangle_act1.ipynb
+wrangle_report.docx
+wrangle_report.zip
+wrangle_report1.pdf
 *.tsv
 *.csv
 # Byte-compiled / optimized / DLL files
