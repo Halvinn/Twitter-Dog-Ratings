@@ -1,6 +1,6 @@
 ## Data Wrangling Project
 
-Gather data from different sources using a variety of methods. Assess and clean the data to prepare it for deeper analysis and finally visualize a few interesting insights in the data. Work done in jupyter notebooks using Python
+Gather data from different sources using a variety of methods. Assess and clean the data to prepare it for deeper analysis, and finally visualize a few interesting insights in the data. Work done in jupyter notebooks using Python
 
 ### Data acquisition and cleaning
 
